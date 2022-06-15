@@ -70,17 +70,17 @@
     }
     
     .content-text div p{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
     .section-2 .content-text ul{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
     .section-2 .content-text{
         grid-row-start: 2;
 
     }
     .section-3 .content-text ol{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
 
     .beaches-heading{
