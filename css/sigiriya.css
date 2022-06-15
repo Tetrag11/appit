@@ -3,6 +3,13 @@ body{
     background-color: rgba(243,99,34,255) !important;
 }
 
+header{
+    background: url('https://cdn.discordapp.com/attachments/519211413735211021/986698438794174554/mike-swigunski-zDDQZgZjFtM-unsplash.jpg') !important;
+    /* background-position: center -500px !important; */
+ 
+
+
+}
 .orange{
     color: white !important;
 }
