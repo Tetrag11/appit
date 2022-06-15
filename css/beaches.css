@@ -5,7 +5,8 @@
 }
 
 header{
-   background: url("https://images.pexels.com/photos/1998438/pexels-photo-1998438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") !important;
+   background: url('https://images.pexels.com/photos/1998438/pexels-photo-1998438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') !important;
+    background-position: center -200px !important;
 }
 
 
