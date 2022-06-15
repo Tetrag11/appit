@@ -188,7 +188,7 @@ nav{
     font-family: '';
     font-weight: normal;
     font-style: normal;
-    font-size: 8vw;
+    font-size: 9vw;
 }
 
 
@@ -340,7 +340,7 @@ footer .container{
         font-size: 5vw;
     }
     .header-content h1{
-        font-size: 12vw;
+        font-size: 13vw;
     }
 
     /* footer */
@@ -371,4 +371,5 @@ footer .container{
     }
 
 }
+
 
