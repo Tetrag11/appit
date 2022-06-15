@@ -3,7 +3,7 @@ body{
     background-color: rgba(243,99,34,255) !important;
 }
 
-.orange{
+.orange not(:first-child){
     color: white !important;
 }
 
