@@ -3,6 +3,15 @@
     padding: 100px 0;
 }
 
+
+header{
+    background: url('https://cdn.discordapp.com/attachments/519211413735211021/986700878729859082/udayaditya-barua-xisPXJqwQkA-unsplash.jpg') !important;
+    /* background-position: center -200px !important; */
+ 
+
+
+}
+
 .showcase-grid, .donation-showcase{
     
     display: grid;
