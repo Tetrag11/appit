@@ -135,10 +135,10 @@ body{
     }
     
     .content-text div p{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
     .section-2 .content-text ul{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
     .section-2 .content-text{
         grid-row-start: 2;
@@ -148,7 +148,7 @@ body{
         justify-self: center;
     }
     .section-3 .content-text ol{
-        font-size: 2.2vw;
+        font-size: 2.8vw;
     }
 
     .beaches-heading{
@@ -166,6 +166,10 @@ body{
     }
     
     
+    .flash-card-text, .flash-card-text-1, .flash-card-text-2{
+        font-size: 2.8vw;
+       
+    }
 }
 
 
